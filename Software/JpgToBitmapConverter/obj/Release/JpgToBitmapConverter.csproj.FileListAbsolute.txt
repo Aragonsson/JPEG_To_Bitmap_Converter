@@ -1,0 +1,12 @@
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\bin\Release\JpgToBitmapConverter.exe.config
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\bin\Release\JpgToBitmapConverter.exe
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\bin\Release\JpgToBitmapConverter.pdb
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Release\JpgToBitmapConverter.csproj.AssemblyReference.cache
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Release\JpgToBitmapConverter.csproj.SuggestedBindingRedirects.cache
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Release\JpgToBitmapConverter.csproj.CoreCompileInputs.cache
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Release\JpgToBitmapConverter.exe
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Release\JpgToBitmapConverter.pdb
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\bin\Release\JpgToBitmapConverter.exe.manifest
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\bin\Release\JpgToBitmapConverter.application
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Release\JpgToBitmapConverter.exe.manifest
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Release\JpgToBitmapConverter.application

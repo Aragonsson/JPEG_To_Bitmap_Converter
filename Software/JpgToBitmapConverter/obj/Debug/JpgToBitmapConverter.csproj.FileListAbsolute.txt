@@ -1,0 +1,8 @@
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\bin\Debug\JpgToBitmapConverter.exe.config
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\bin\Debug\JpgToBitmapConverter.exe
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\bin\Debug\JpgToBitmapConverter.pdb
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Debug\JpgToBitmapConverter.csproj.AssemblyReference.cache
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Debug\JpgToBitmapConverter.csproj.SuggestedBindingRedirects.cache
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Debug\JpgToBitmapConverter.csproj.CoreCompileInputs.cache
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Debug\JpgToBitmapConverter.exe
+D:\JpgToBitmap\JpgToBitmapConverter\JpgToBitmapConverter\obj\Debug\JpgToBitmapConverter.pdb
